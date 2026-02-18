@@ -39,6 +39,8 @@ Submissions consist of a **2-page abstract** (AAAI format) and a no more than **
 
 **Full Call and submission details:** https://icaps26.icaps-conference.org/calls/demos/
 
+**Submission page:** https://easychair.org/conferences/?conf=icaps26demo
+
 ### 📅 Important Dates
 
  - Submission Deadline: Tuesday, March 31st 2026
@@ -47,5 +49,5 @@ Submissions consist of a **2-page abstract** (AAAI format) and a no more than **
 
 For questions, contact the Demo Chairs:
 
- - Christian Muise (Queens' University) (christian.muise@queensu.ca)
+ - Christian Muise (Queen's University) (christian.muise@queensu.ca)
  - Arthur Bit-Monnot (LAAS-CNRS) (abitmonnot@laas.fr)
